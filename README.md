@@ -1,13 +1,14 @@
-<h1>Summer 2024 Tech Internships - Singapore</h1>
+<h1>🇸🇬 Summer 2024 Tech Internships - Singapore 🇸🇬</h1>
 
 * Share and track internship postings in technology-focused roles for **Summer 2024**. 
-* This repository will exclusively track internship postings in **Singapore**.
+* This repository will exclusively track internship postings in **Singapore** 🇸🇬.
 * For contributions, please refer to the [contribution guide](CONTRIBUTING.md).
+* Credit to [Simplify Jobs and PittCSC](https://github.com/SimplifyJobs/Summer2024-Internships) for general formatting ideas. While the repository is a treasure trove of internship links, I felt it was prudent to have one focused on just Singapore-specific applications.
 
 <h2>Internship List</h2>
 
 |      Company      |                                          Role                                           |                                                                                                                Status                                                                                                                 | Date Added  |
-| :---------------: | :-------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
+| :--------------- | :------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
 |  Bank of America  |                      Global Technology Summer Analyst (Developer)                       |                                    [Open](https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/10253-Global-Technology-Summer-Analyst-Developer-2024-Singapore/en-GB)                                     | 20 Aug 2023 |
 |     Barclays      |                         Electronic Trading Associate Internship                         |                                                                                    [Open](https://search.jobs.barclays/job/-/-/22545/52800298880)                                                                                     | 20 Aug 2023 |
 |     Blackrock     |                            Summer Internship Program - APAC                             |                                         [Open](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-56900e343d15/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB)                                         | 20 Aug 2023 |
