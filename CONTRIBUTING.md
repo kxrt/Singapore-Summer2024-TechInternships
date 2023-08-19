@@ -5,6 +5,7 @@
 * The internship must be for a technology-focused role.
 * The internship company must be located in Singapore, and the role should be targeted almost exclusively towards applicants in Singapore.
 * The company should not already exist in the internship list.
+* The internship period **must** overlap somewhat with May-Jul 2024. This allows for ATAP postings to be included too.
 
 <h2>Step 2: Insert the posting</h2>
 
