@@ -14,6 +14,8 @@
 |:---|:---|:---:|:---:|
 | Bank of America | Global Technology Summer Analyst (Developer) | [Open](https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/10253-Global-Technology-Summer-Analyst-Developer-2024-Singapore/en-GB) | 20 Aug 2023 |
 | Barclays | Electronic Trading Associate Internship | [Open](https://search.jobs.barclays/job/-/-/22545/52800298880) | 20 Aug 2023 |
+| Bifrost AI | AI Intern | [Open](https://jobs.ashbyhq.com/Bifrost/6c4c89e7-ae35-4003-98bb-ab1952332a35) | 20 Aug 2023 |
+| Bifrost AI | Software Development Intern | [Open](https://jobs.ashbyhq.com/Bifrost/3e4fe293-21c7-4e1a-b20f-f3ec3df01aaa) | 20 Aug 2023 |
 | Blackrock | Summer Internship Program - APAC | [Open](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-56900e343d15/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB) | 20 Aug 2023 |
 | Citadel | Site Reliability Engineer - Intern (Asia) | [Open](https://www.citadel.com/careers/details/site-reliability-engineer-intern-asia/) | 20 Aug 2023 |
 | Citadel | Software Engineer - Intern (Asia) | [Open](https://www.citadel.com/careers/details/software-engineer-intern-asia/) | 20 Aug 2023 |
@@ -22,6 +24,7 @@
 | Garda Capital | Software Engineer Intern (Python) | [Open](https://boards.greenhouse.io/gardacp/jobs/4174205004?gh_src=ce79c35b4us) | 20 Aug 2023 |
 | GIC | GIC Internship Programme | [Open](https://gic.careers/programmes/gic-internship-programme/) | 20 Aug 2023 |
 | Goldman Sachs | 2024 \| APEJ \| Singapore \| Engineering \| Summer Analyst | [Open](https://www.goldmansachs.com/careers/students/programs/asia-pacific/2024-summer-analyst.html) | 20 Aug 2023 |
+| GovTech | 2024 Internships | [Open](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2024-Internships_JR-10000019866) | 20 Aug 2023 | 
 | JPMorgan Chase | 2024 Software Engineer Program - Summer Analyst - Singapore | [Open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210432052) | 20 Aug 2023 |
 | Morgan Stanley | 2024 Technology Summer Analyst (Singapore) | [Open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210432052) | 20 Aug 2023 |
 | Native Labs | Technology Intern \| Native | [Open](https://vegasolutions.hire.trakstar.com/jobs/fk0xzmc/) | 20 Aug 2023 |
