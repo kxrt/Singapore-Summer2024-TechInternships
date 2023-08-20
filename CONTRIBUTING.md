@@ -14,6 +14,7 @@
 ```Markdown
 | CompanyName | RoleName | [Open](ApplicationLink) | CurrentDate (dd MMM yyyy) |
 ```
+* If a `RoleName` contains the `|` character, escape it (`\|`).
 * For examples, please refer to the [internship list](README.md).
 * Note that **alphabetical order** of the company names is enforced, to standardize the internship posting list.
 * If an internship closes accepting applications, the application status should change to `CLOSED` without a link.
