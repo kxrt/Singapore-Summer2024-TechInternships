@@ -12,8 +12,6 @@
 <!-- prettier-ignore -->
 | Company | Role | Status | Date Added |
 |:---|:---|:---:|:---:|
-| Apple | Software Engineering Internship, Apple Services Engineering | [Open](https://jobs.apple.com/en-sg/details/200497249/software-engineering-internship-apple-services-engineering) | 21 Aug 2023 |
-| Apple | 2024 Apple Internship - Information Systems and Technology | [Open](https://jobs.apple.com/zh-cn/details/200496215/2024-apple-internship-information-systems-and-technology) | 21 Aug 2023 |
 | Bank of America | Global Technology Summer Analyst (Developer) | [Open](https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/10253-Global-Technology-Summer-Analyst-Developer-2024-Singapore/en-GB) | 20 Aug 2023 |
 | Barclays | Electronic Trading Associate Internship | [Open](https://search.jobs.barclays/job/-/-/22545/52800298880) | 20 Aug 2023 |
 | Blackrock | Summer Internship Program - APAC | [Open](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-56900e343d15/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB) | 20 Aug 2023 |
