@@ -20,5 +20,6 @@
 
 <h3>Step 3: Create a Pull Request</h3>
 
+* Ideally, please follow conventional commits - start the commit message with `roles:` to add/edit an internship role.
 * Add the internship to the list, and create a [pull request](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/).
 * Once I review your submission, it will be merged in.
