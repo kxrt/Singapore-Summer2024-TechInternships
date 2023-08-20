@@ -12,6 +12,7 @@
 <!-- prettier-ignore -->
 | Company | Role | Status | Date Added |
 |:---|:---|:---:|:---:|
+| Apple | Software Engineering \| Information System and Technology Internship | [Open](https://jobs.apple.com/en-sg/search?location=singapore-SGP&team=internships-STDNT-INTRN) | 20 Aug 2023 |
 | Bank of America | Global Technology Summer Analyst (Developer) | [Open](https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/10253-Global-Technology-Summer-Analyst-Developer-2024-Singapore/en-GB) | 20 Aug 2023 |
 | Barclays | Electronic Trading Associate Internship | [Open](https://search.jobs.barclays/job/-/-/22545/52800298880) | 20 Aug 2023 |
 | Blackrock | Summer Internship Program - APAC | [Open](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-56900e343d15/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB) | 20 Aug 2023 |
@@ -19,6 +20,7 @@
 | Citadel | Software Engineer - Intern (Asia) | [Open](https://www.citadel.com/careers/details/software-engineer-intern-asia/) | 20 Aug 2023 |
 | Citi | APAC ICG Technology, Summer Software Development Analyst – Singapore (Singapore - 2024) | [Open](https://jobs.citi.com/job/-/-/287/52222714992?source=LinkedInJB&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=APAC_Lateral&utm_content=social_media&utm_term=326431642&ss=paid&dclid=CMzEnqyotIADFX6UZgIdJkwPDQ) | 20 Aug 2023 |
 | Dell Technologies | Software Engineer Intern (SG-Edge) (2024 Intake) | [Open](https://jobs.dell.com/job/singapore/software-engineer-intern-sg-edge-2024-intake/375/53127945744?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 20 Aug 2023 |
+| DRW | Quant \| Software Engineer Internship | [Open](https://drw.com/work-at-drw/listings?filterType=city&value=Singapore) | 20 Aug 2023 |
 | Garda Capital | Software Engineer Intern (Python) | [Open](https://boards.greenhouse.io/gardacp/jobs/4174205004?gh_src=ce79c35b4us) | 20 Aug 2023 |
 | GIC | GIC Internship Programme | [Open](https://gic.careers/programmes/gic-internship-programme/) | 20 Aug 2023 |
 | Goldman Sachs | 2024 \| APEJ \| Singapore \| Engineering \| Summer Analyst | [Open](https://www.goldmansachs.com/careers/students/programs/asia-pacific/2024-summer-analyst.html) | 20 Aug 2023 |
