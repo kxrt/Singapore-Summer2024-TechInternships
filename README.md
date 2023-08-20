@@ -14,6 +14,8 @@
 |:---|:---|:---:|:---:|
 | Bank of America | Global Technology Summer Analyst (Developer) | [Open](https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/10253-Global-Technology-Summer-Analyst-Developer-2024-Singapore/en-GB) | 20 Aug 2023 |
 | Barclays | Electronic Trading Associate Internship | [Open](https://search.jobs.barclays/job/-/-/22545/52800298880) | 20 Aug 2023 |
+| Bifrost AI | AI Intern | [Open](https://jobs.ashbyhq.com/Bifrost/6c4c89e7-ae35-4003-98bb-ab1952332a35) | 20 Aug 2023 |
+| Bifrost AI | Software Development Intern | [Open](https://jobs.ashbyhq.com/Bifrost/3e4fe293-21c7-4e1a-b20f-f3ec3df01aaa) | 20 Aug 2023 |
 | Blackrock | Summer Internship Program - APAC | [Open](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-56900e343d15/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB) | 20 Aug 2023 |
 | Citadel | Site Reliability Engineer - Intern (Asia) | [Open](https://www.citadel.com/careers/details/site-reliability-engineer-intern-asia/) | 20 Aug 2023 |
 | Citadel | Software Engineer - Intern (Asia) | [Open](https://www.citadel.com/careers/details/software-engineer-intern-asia/) | 20 Aug 2023 |
