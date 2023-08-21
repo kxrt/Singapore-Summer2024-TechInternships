@@ -13,7 +13,6 @@
 | Company | Role | Status | Date Added |
 |:---|:---|:---:|:---:|
 | Amazon | Data Center Operations Intern | [Open](https://www.amazon.jobs/en/jobs/2388502/data-center-operations-intern) | 20 Aug 2023 |
-| Apple | Software Engineering \| Information System and Technology Internship | [Open](https://jobs.apple.com/en-sg/search?location=singapore-SGP&team=internships-STDNT-INTRN) | 20 Aug 2023 |
 | Bank of America | Global Technology Summer Analyst (Developer) | [Open](https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/10253-Global-Technology-Summer-Analyst-Developer-2024-Singapore/en-GB) | 20 Aug 2023 |
 | Barclays | Electronic Trading Associate Internship | [Open](https://search.jobs.barclays/job/-/-/22545/52800298880) | 20 Aug 2023 |
 | Bifrost AI | AI Intern | [Open](https://jobs.ashbyhq.com/Bifrost/6c4c89e7-ae35-4003-98bb-ab1952332a35) | 20 Aug 2023 |
