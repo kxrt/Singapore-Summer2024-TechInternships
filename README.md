@@ -25,7 +25,7 @@
 | GIC | GIC Internship Programme | [Open](https://gic.careers/programmes/gic-internship-programme/) | 20 Aug 2023 |
 | Goldman Sachs | 2024 \| APEJ \| Singapore \| Engineering \| Summer Analyst | [Open](https://www.goldmansachs.com/careers/students/programs/asia-pacific/2024-summer-analyst.html) | 20 Aug 2023 |
 | JPMorgan Chase | 2024 Software Engineer Program - Summer Analyst - Singapore | [Open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210432052) | 20 Aug 2023 |
-| Morgan Stanley | 2024 Technology Summer Analyst (Singapore) | [Open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210432052) | 20 Aug 2023 |
+| Morgan Stanley | 2024 Technology Summer Analyst (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
 | Native Labs | Technology Intern \| Native | [Open](https://vegasolutions.hire.trakstar.com/jobs/fk0xzmc/) | 20 Aug 2023 |
 | Stripe | Software Engineering Intern | [Open](https://stripe.com/jobs/listing/software-engineering-intern/5306063) | 20 Aug 2023 |
 | TikTok | Various Opportunities | [Open](https://careers.tiktok.com/position?keywords=2024&category=6704215862603155720&location=CT_163&project=&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=G1DWUPV) | 20 Aug 2023 |
@@ -38,9 +38,9 @@
 <!-- prettier-ignore -->
 | Company | Role | Status | Date Added |
 |:---|:---|:---:|:---:|
-| Apple | Software Engineering Internship, Apple Services Engineering | [Open](https://jobs.apple.com/en-sg/details/200497249/software-engineering-internship-apple-services-engineering) | 21 Aug 2023 |
-| Apple | 2024 Apple Internship - Information Systems and Technology | [Open](https://jobs.apple.com/zh-cn/details/200496215/2024-apple-internship-information-systems-and-technology) | 21 Aug 2023 |
-| Envision Digital | Edge Developer Software Intern (2024) | [Open](https://envisiondigital.freshteam.com/jobs/24NA3qmS0bkh/edge-developer-software-intern-2024?ft_source=25000204917&ft_medium=25000179167) | 21 Aug 2023 |
-| GovTech | GovTech 2024 Internships (Off-Cycle) | [Open](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2024-Internships_JR-10000019866) | 21 Aug 2023 |
-| IBM | Internship: CIO Network Engineering App Development (Jan - June 2024) - SG | [Open](https://careers.ibm.com/job/18870938/internship-cio-network-engineering-app-development-jan-june-2024-singapore-sg/?utm_source=talentnetwork) | 21 Aug 2023 |
-| Morgan Stanley | 2024 Industrial Placement Program (Singapore) | [Open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210432052) | 20 Aug 2023 |
+| Apple | Software Engineering Internship, Apple Services Engineering | [Open](https://jobs.apple.com/en-sg/details/200497249/software-engineering-internship-apple-services-engineering) | 20 Aug 2023 |
+| Apple | 2024 Apple Internship - Information Systems and Technology | [Open](https://jobs.apple.com/zh-cn/details/200496215/2024-apple-internship-information-systems-and-technology) | 20 Aug 2023 |
+| Envision Digital | Edge Developer Software Intern (2024) | [Open](https://envisiondigital.freshteam.com/jobs/24NA3qmS0bkh/edge-developer-software-intern-2024?ft_source=25000204917&ft_medium=25000179167) | 20 Aug 2023 |
+| GovTech | GovTech 2024 Internships (Off-Cycle) | [Open](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2024-Internships_JR-10000019866) | 20 Aug 2023 |
+| IBM | Internship: CIO Network Engineering App Development (Jan - June 2024) - SG | [Open](https://careers.ibm.com/job/18870938/internship-cio-network-engineering-app-development-jan-june-2024-singapore-sg/?utm_source=talentnetwork) | 20 Aug 2023 |
+| Morgan Stanley | 2024 Industrial Placement Program (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
