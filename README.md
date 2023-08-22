@@ -33,6 +33,7 @@
 | TikTok | Various Opportunities | [Open](https://careers.tiktok.com/position?keywords=2024&category=6704215862603155720&location=CT_163&project=&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=G1DWUPV) | 20 Aug 2023 |
 | Tokka Labs | Technology Intern \| Tokka Labs | [Open](https://vegasolutions.hire.trakstar.com/jobs/fk028tt/) | 20 Aug 2023 |
 | UBS | Internship 2024, Group Operations & Technology Office, Singapore | [Open](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=10846#jobDetails=282897_5131) | 20 Aug 2023 |
+| Venti Technologies | Various Opportunities | [Open](https://jobs.ashbyhq.com/GoVenti?departmentId=95b69e51-0cf1-4004-8be0-117a04828efe&employmentType=Intern&locationId=80c1e4e2-42b4-4eac-a302-8bb7672695b0) | 22 Aug 2023 |
 | Visa | Technology Summer Internship (May 24 - Aug 24) | [Open](https://jobs.smartrecruiters.com/Visa/743999920843366-technology-summer-internship-may-24-aug-24-?lid=64cb2e27ae472228ed3efbb1) | 20 Aug 2023 |
 
 <h2 name="offcycle">Off-Cycle Internship List</h2>
