@@ -9,6 +9,7 @@
 
 <h2>Step 2: Insert the posting</h2>
 
+* **Summer** internship postings should be added to the first table (on top), and **semester-long/off-cycle** internships should be added to the second table (at the bottom).
 * The internship posting must be formatted in the following manner:
 
 ```Markdown
