@@ -1,6 +1,6 @@
 <h1>🇸🇬 Summer 2024 Tech Internships - Singapore 🇸🇬</h1>
 
-> **Check out the website: [techinternships.kxrt.me](https://techinternships.kxrt.me/)**
+> **Check out the website: [techinternships.kxrt.me](https://techinternships.kxrt.me/) ([code](https://github.com/kxrt/sg-tech-internships))**
 
 * Share and track internship postings in technology-focused roles for **Summer 2024**. 
 * This repository will exclusively track internship postings in **Singapore** 🇸🇬.
@@ -53,3 +53,4 @@
 | IBM | Internship: CIO Network Engineering App Development (Jan - June 2024) - SG | [Open](https://careers.ibm.com/job/18870938/internship-cio-network-engineering-app-development-jan-june-2024-singapore-sg/?utm_source=talentnetwork) | 20 Aug 2023 |
 | M-DAQ Global | Software Engineer Intern (Jan24-Jun24, Full Time) | [Open](https://www.linkedin.com/jobs/view/software-engineer-intern-jan24-jun24-full-time-at-m-daq-global-3689986076/) | 21 Aug 2023 |
 | Morgan Stanley | 2024 Industrial Placement Program (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
+| Sembcorp Group | Web Applications Developer Intern [Jan 2024 - Jun 2024] | [Open](https://hrsembcorp.darwinbox.com/ms/candidate/careers/a64d44d3cbbf3b) | 25 Aug 2023 |
