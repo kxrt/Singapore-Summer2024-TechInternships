@@ -47,6 +47,7 @@
 |:---|:---|:---:|:---:|
 | Apple | Software Engineering Internship, Apple Services Engineering | [Open](https://jobs.apple.com/en-sg/details/200497249/software-engineering-internship-apple-services-engineering) | 20 Aug 2023 |
 | Apple | 2024 Apple Internship - Information Systems and Technology | [Open](https://jobs.apple.com/zh-cn/details/200496215/2024-apple-internship-information-systems-and-technology) | 20 Aug 2023 |
+| Artefact | Data Engineer Intern | [Open](https://www.artefact.com/job/data-intern/) | 25 Aug 2023 |
 | Envision Digital | Edge Developer Software Intern (2024) | [Open](https://envisiondigital.freshteam.com/jobs/24NA3qmS0bkh/edge-developer-software-intern-2024?ft_source=25000204917&ft_medium=25000179167) | 20 Aug 2023 |
 | GovTech | GovTech 2024 Internships (Off-Cycle) | [Open](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2024-Internships_JR-10000019866) | 20 Aug 2023 |
 | Hypotenuse AI | Full Stack Software Engineer Intern (6 months) | [Open](https://www.ycombinator.com/companies/hypotenuse-ai/jobs/e7gNyjl-full-stack-software-engineer-intern-6-months?utm_source=syn_li) | 22 Aug 2023 |
