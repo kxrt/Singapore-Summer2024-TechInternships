@@ -37,7 +37,7 @@
 | Kinexcs | Software Developer Intern | [Open](https://glints.com/sg/opportunities/jobs/software-developer-intern/73ea4931-438c-40a4-881f-6525c9d53496) | 27 Aug 2023 |
 | Morgan Stanley | 2024 Technology Summer Analyst (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
 | Native Labs | Technology Intern \| Native | [Open](https://vegasolutions.hire.trakstar.com/jobs/fk0xzmc/) | 20 Aug 2023 |
-| NodeFlair | Software Engineer Intern | [Open](https://glints.com/sg/opportunities/jobs/software-engineer-intern/6f17dbf6-2c2e-4115-98c1-1cce1a2ca44e) | 27 Aug 2023 |
+| NodeFlair | Software Engineering Intern | [Open](https://www.careers-page.com/nodeflair23/job/QV833888) | 27 Aug 2023 |
 | Optiver | Software Engineer Internship 2024 | [Open](https://optiver.com/working-at-optiver/career-opportunities/6892062002/) | 22 Aug 2023 |
 | Stripe | Software Engineering Intern | [Open](https://stripe.com/jobs/listing/software-engineering-intern/5318699) | 20 Aug 2023 |
 | TikTok | Various Opportunities | [Open](https://careers.tiktok.com/position?keywords=2024&category=6704215862603155720&location=CT_163&project=&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=G1DWUPV) | 20 Aug 2023 |
@@ -65,6 +65,6 @@
 | IBM | Internship: CIO Network Engineering App Development (Jan - June 2024) - SG | [Open](https://careers.ibm.com/job/18870938/internship-cio-network-engineering-app-development-jan-june-2024-singapore-sg/?utm_source=talentnetwork) | 20 Aug 2023 |
 | M-DAQ Global | Software Engineer Intern (Jan24-Jun24, Full Time) | [Open](https://www.linkedin.com/jobs/view/software-engineer-intern-jan24-jun24-full-time-at-m-daq-global-3689986076/) | 21 Aug 2023 |
 | Morgan Stanley | 2024 Industrial Placement Program (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
-| NodeFlair | Software Engineer Intern | [Open](https://glints.com/sg/opportunities/jobs/software-engineer-intern/6f17dbf6-2c2e-4115-98c1-1cce1a2ca44e) | 27 Aug 2023 |
+| NodeFlair | Software Engineering Intern | [Open](https://www.careers-page.com/nodeflair23/job/QV833888) | 27 Aug 2023 |
 | Nomura | 2024 Group Data Office 6-month Internship Program - Singapore | [Open](https://nomuracampus.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/1/opp/908-2024-Group-Data-Office-6-month-Internship-Program-Singapore/en-GB) | 28 Aug 2023 |
 | Sembcorp Group | Web Applications Developer Intern [Jan 2024 - Jun 2024] | [Open](https://hrsembcorp.darwinbox.com/ms/candidate/careers/a64d44d3cbbf3b) | 25 Aug 2023 |
