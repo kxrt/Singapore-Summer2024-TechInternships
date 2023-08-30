@@ -15,9 +15,11 @@
 <!-- prettier-ignore -->
 | Company | Role | Status | Date Added |
 |:---|:---|:---:|:---:|
+| AlphaLab Capital | 2024 Summer Intern | [Open](https://www.alphalab.capital/career/?gh_jid=4960149004) | 30 Aug 2023 |
 | Amazon | Data Center Operations Intern | [Open](https://www.amazon.jobs/en/jobs/2388502/data-center-operations-intern) | 20 Aug 2023 |
 | Bank of America | Global Technology Summer Analyst (Developer) | [Open](https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/10253-Global-Technology-Summer-Analyst-Developer-2024-Singapore/en-GB) | 20 Aug 2023 |
 | Barclays | Electronic Trading Associate Internship | [Open](https://search.jobs.barclays/job/-/-/22545/52800298880) | 20 Aug 2023 |
+| Barclays | Technology Developer Analyst Internship | [Open](https://search.jobs.barclays/job/-/-/22545/53647883024) | 30 Aug 2023 |
 | Bifrost AI | AI Intern | [Open](https://jobs.ashbyhq.com/Bifrost/6c4c89e7-ae35-4003-98bb-ab1952332a35) | 20 Aug 2023 |
 | Bifrost AI | Software Development Intern | [Open](https://jobs.ashbyhq.com/Bifrost/3e4fe293-21c7-4e1a-b20f-f3ec3df01aaa) | 20 Aug 2023 |
 | Blackrock | Summer Internship Program - APAC | [Open](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-56900e343d15/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB) | 20 Aug 2023 |
@@ -37,12 +39,14 @@
 | Jump Trading | Campus Quantitative Trader (Intern) | [Open](https://www.jumptrading.com/careers/5316606/?gh_jid=5316606) | 28 Aug 2023 |
 | Jump Trading | Campus Software Engineer (Intern) | [Open](https://www.jumptrading.com/careers/5305049/?gh_jid=5305049) | 28 Aug 2023 |
 | Kinexcs | Software Developer Intern | [Open](https://glints.com/sg/opportunities/jobs/software-developer-intern/73ea4931-438c-40a4-881f-6525c9d53496) | 27 Aug 2023 |
+| Mobbin | Software Engineer Intern | [Open](https://jobs.ashbyhq.com/mobbin.com/6e61f403-f196-475d-bdf1-228c492d0619) | 30 Aug 2023 |
 | Morgan Stanley | 2024 Technology Summer Analyst (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
 | Native Labs | Technology Intern \| Native | [Open](https://vegasolutions.hire.trakstar.com/jobs/fk0xzmc/) | 20 Aug 2023 |
 | NodeFlair | Software Engineering Intern | [Open](https://www.careers-page.com/nodeflair23/job/QV833888) | 27 Aug 2023 |
 | Open Government Products | Software Engineering Intern (summer; between May and Aug 2024) | [Open](https://opengovernmentproducts.recruitee.com/o/software-engineering-intern-offcycle-between-aug-2023-and-apr-2024) | 30 Aug 2023 |
 | Optiver | Software Engineer Internship 2024 | [Open](https://optiver.com/working-at-optiver/career-opportunities/6892062002/) | 22 Aug 2023 |
 | Stripe | Software Engineering Intern | [Open](https://stripe.com/jobs/listing/software-engineering-intern/5318699) | 20 Aug 2023 |
+| Tencent | Site Reliability Engineer (SRE) Intern | [Open](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3689543158) | 30 Aug 2023 |
 | TikTok | Various Opportunities | [Open](https://careers.tiktok.com/position?keywords=2024&category=6704215862603155720&location=CT_163&project=&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=G1DWUPV) | 20 Aug 2023 |
 | Tokka Labs | Technology Intern \| Tokka Labs | [Open](https://vegasolutions.hire.trakstar.com/jobs/fk028tt/) | 20 Aug 2023 |
 | UBS | Internship 2024, Group Operations & Technology Office, Singapore | [Open](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=10846#jobDetails=282897_5131) | 20 Aug 2023 |
@@ -70,4 +74,5 @@
 | Morgan Stanley | 2024 Industrial Placement Program (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
 | NodeFlair | Software Engineering Intern | [Open](https://www.careers-page.com/nodeflair23/job/QV833888) | 27 Aug 2023 |
 | Nomura | 2024 Group Data Office 6-month Internship Program - Singapore | [Open](https://nomuracampus.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/1/opp/908-2024-Group-Data-Office-6-month-Internship-Program-Singapore/en-GB) | 28 Aug 2023 |
+| Rakuten | Software Engineer Intern (Backend) | [Open](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3691739055) | 30 Aug 2023 |
 | Sembcorp Group | Web Applications Developer Intern [Jan 2024 - Jun 2024] | [Open](https://hrsembcorp.darwinbox.com/ms/candidate/careers/a64d44d3cbbf3b) | 25 Aug 2023 |
