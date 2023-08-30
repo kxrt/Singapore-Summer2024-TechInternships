@@ -30,6 +30,8 @@
 | Garda Capital | Software Engineer Intern (Python) | [Open](https://boards.greenhouse.io/gardacp/jobs/4174205004?gh_src=ce79c35b4us) | 20 Aug 2023 |
 | GIC | GIC Internship Programme | [Open](https://gic.careers/programmes/gic-internship-programme/) | 20 Aug 2023 |
 | Goldman Sachs | 2024 \| APEJ \| Singapore \| Engineering \| Summer Analyst | [Open](https://www.goldmansachs.com/careers/students/programs/asia-pacific/2024-summer-analyst.html) | 20 Aug 2023 |
+| Hudson River Trading | Algorithm Development Internship – Summer 2024 | [Open](https://www.hudsonrivertrading.com/careers/job?gh_jid=5324588&req_id=443) | 30 Aug 2023 |
+| Hudson River Trading | Software Engineering Internship – Summer 2024 | [Open](https://www.hudsonrivertrading.com/careers/job/?gh_jid=5324595&req_id=447) | 30 Aug 2023 |
 | JPMorgan Chase | 2024 Software Engineer Program - Summer Analyst - Singapore | [Open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210432052) | 20 Aug 2023 |
 | Jump Trading | Campus Quantitative Researcher (Intern) | [Open](https://www.jumptrading.com/careers/5316594/?gh_jid=5316594) | 28 Aug 2023 |
 | Jump Trading | Campus Quantitative Trader (Intern) | [Open](https://www.jumptrading.com/careers/5316606/?gh_jid=5316606) | 28 Aug 2023 |
