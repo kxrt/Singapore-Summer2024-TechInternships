@@ -1,6 +1,6 @@
 <h1>🇸🇬 Summer 2024 Tech Internships - Singapore 🇸🇬</h1>
 
-> **Check out the website: [techinternships.kxrt.me](https://techinternships.kxrt.me/) ([code](https://github.com/kxrt/sg-tech-internships))**  
+> **Check out the website 🌐: [techinternships.kxrt.me](https://techinternships.kxrt.me/) ([code](https://github.com/kxrt/sg-tech-internships)) - sort postings by date!** 📅  
 > **Drop a ⭐ if this has been helpful for you!**
 
 * Share and track internship postings in technology-focused roles for **Summer 2024**. 
@@ -63,6 +63,7 @@
 | Apple | Software Engineering Internship, Apple Services Engineering | [Open](https://jobs.apple.com/en-sg/details/200497249/software-engineering-internship-apple-services-engineering) | 20 Aug 2023 |
 | Apple | 2024 Apple Internship - Information Systems and Technology | [Open](https://jobs.apple.com/zh-cn/details/200496215/2024-apple-internship-information-systems-and-technology) | 20 Aug 2023 |
 | Artefact | Data Engineer Intern | [Open](https://www.artefact.com/job/data-intern/) | 25 Aug 2023 |
+| Autodesk | Intern, Software Development Engineer [PSET-IDL-ENG] | [Open](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-IDL-ENG-_23WD72088) | 03 Sep 2023 |
 | Coinhako | Software Engineer Intern (Trading) | [Open](https://boards.greenhouse.io/coinhako/jobs/4187800005) | 27 Aug 2023 |
 | Dell Technologies | Cloud Native Architect and Developer Intern (4 to 6 months) | [Open](https://jobs.dell.com/job/singapore/cloud-native-architect-and-developer-intern-4-to-6-months-2024-intake/375/53058795312) | 02 Sep 2023 |
 | Envision Digital | Edge Developer Software Intern (2024) | [Open](https://envisiondigital.freshteam.com/jobs/24NA3qmS0bkh/edge-developer-software-intern-2024?ft_source=25000204917&ft_medium=25000179167) | 20 Aug 2023 |
@@ -72,6 +73,7 @@
 | Hewlett Packard Enterprise | Software Firmware Engineer Intern | [Open](https://careers.hpe.com/us/en/job/1159138/Software-Firmware-Engineer-Intern) | 02 Sep 2023 |
 | Hypotenuse AI | Full Stack Software Engineer Intern (6 months) | [Open](https://www.ycombinator.com/companies/hypotenuse-ai/jobs/e7gNyjl-full-stack-software-engineer-intern-6-months?utm_source=syn_li) | 22 Aug 2023 |
 | IBM | Internship: CIO Network Engineering App Development (Jan - June 2024) - SG | [Open](https://careers.ibm.com/job/18870938/internship-cio-network-engineering-app-development-jan-june-2024-singapore-sg/?utm_source=talentnetwork) | 20 Aug 2023 |
+| IBM | Internship – Full Stack Developer/DevSecOps Engineers (2024 Intake) | [Open](https://careers.ibm.com/job/18985338/internship-full-stack-developer-devsecops-engineers-2024-intake-singapore-sg/) | 03 Sep 2023 |
 | M-DAQ Global | Software Engineer Intern (Jan24-Jun24, Full Time) | [Open](https://www.linkedin.com/jobs/view/software-engineer-intern-jan24-jun24-full-time-at-m-daq-global-3689986076/) | 21 Aug 2023 |
 | Morgan Stanley | 2024 Industrial Placement Program (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
 | NodeFlair | Software Engineering Intern | [Open](https://www.careers-page.com/nodeflair23/job/QV833888) | 27 Aug 2023 |
@@ -80,3 +82,4 @@
 | Rakuten | Software Engineer Intern (Backend) | [Open](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3691739055) | 30 Aug 2023 |
 | Sembcorp Group | Web Applications Developer Intern [Jan 2024 - Jun 2024] | [Open](https://hrsembcorp.darwinbox.com/ms/candidate/careers/a64d44d3cbbf3b) | 25 Aug 2023 |
 | Shopback | Software Engineering (Salesforce) Intern | [Open](https://jobs.lever.co/shopback-2/f2e65eaa-539c-4051-a014-6fc45c26e989) | 02 Sep 2023 |
+| The Software Practice Pte Ltd | Software Development Engineer (Intern) (January-June 2024) | [Open](https://thesoftwarepractice.freshteam.com/jobs/mNA1RJEckJ9N/software-development-engineer-intern) | 03 Sep 2023 |
