@@ -83,4 +83,5 @@
 | Rakuten | Software Engineer Intern (Backend) | [Open](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3691739055) | 30 Aug 2023 |
 | Sembcorp Group | Web Applications Developer Intern [Jan 2024 - Jun 2024] | [Open](https://hrsembcorp.darwinbox.com/ms/candidate/careers/a64d44d3cbbf3b) | 25 Aug 2023 |
 | Shopback | Software Engineering (Salesforce) Intern | [Open](https://jobs.lever.co/shopback-2/f2e65eaa-539c-4051-a014-6fc45c26e989) | 02 Sep 2023 |
+| SquarePoint | Intern Software Developer - Winter 2024 | [Open](https://www.squarepoint-capital.com/job#243853) | 04 Sep 2023 |
 | The Software Practice Pte Ltd | Software Development Engineer (Intern) (January-June 2024) | [Open](https://thesoftwarepractice.freshteam.com/jobs/mNA1RJEckJ9N/software-development-engineer-intern) | 03 Sep 2023 |
