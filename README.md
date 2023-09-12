@@ -88,4 +88,5 @@
 | Sembcorp Group | Web Applications Developer Intern [Jan 2024 - Jun 2024] | [Open](https://hrsembcorp.darwinbox.com/ms/candidate/careers/a64d44d3cbbf3b) | 25 Aug 2023 |
 | Shopback | Software Engineering (Salesforce) Intern | [Open](https://jobs.lever.co/shopback-2/f2e65eaa-539c-4051-a014-6fc45c26e989) | 02 Sep 2023 |
 | SquarePoint | Intern Software Developer - Winter 2024 | [Open](https://www.squarepoint-capital.com/job#243853) | 04 Sep 2023 |
+| Synapxe | Algorithm & ML Engineer Intern | [Open](https://careers-public-healthtech-jobs.synapxe.sg/job/Uni-Internship-Jan-to-Jun-2024-Leveraging-Graph-Features-&-Algorithms-for-Deep-Learning/18194544/) | 12 Sep 2023 |
 | The Software Practice Pte Ltd | Software Development Engineer (Intern) (January-June 2024) | [Open](https://thesoftwarepractice.freshteam.com/jobs/mNA1RJEckJ9N/software-development-engineer-intern) | 03 Sep 2023 |
