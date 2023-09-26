@@ -47,6 +47,8 @@
 | NodeFlair | Software Engineering Intern | [Open](https://www.careers-page.com/nodeflair23/job/QV833888) | 27 Aug 2023 |
 | Open Government Products | Software Engineering Intern (summer; between May and Aug 2024) | [Open](https://opengovernmentproducts.recruitee.com/o/software-engineering-intern-offcycle-between-aug-2023-and-apr-2024) | 30 Aug 2023 |
 | Optiver | Software Engineer Internship 2024 | [Open](https://optiver.com/working-at-optiver/career-opportunities/6892062002/) | 22 Aug 2023 |
+| Standard Chartered | Intern, Technology | [Open](https://scb.taleo.net/careersection/scec/jobdetail.ftl) | 24 Sep 2023 |
+| Standard Chartered | Intern, Ventures (Innovation & Tech) | [Open](https://scb.taleo.net/careersection/scec/jobdetail.ftl) | 24 Sep 2023 |
 | Stripe | Software Engineering Intern | [Open](https://stripe.com/jobs/listing/software-engineering-intern/5318699) | 20 Aug 2023 |
 | Temasek | Project Intern, Technology (Full Stack Developer)  | [Open](https://career2.successfactors.eu/career?career_ns=job_listing&company=temasekcapP2&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&career_job_req_id=10767) | 10 Sep 2023 |
 | Temasek | Project Intern, Technology (Python Backend Developer)  | [Open](https://career2.successfactors.eu/career?career_ns=job_listing&company=temasekcapP2&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&career_job_req_id=10761) | 10 Sep 2023 |
@@ -73,6 +75,7 @@
 | Bifrost AI | Software Development Intern | [Open](https://jobs.ashbyhq.com/Bifrost/3e4fe293-21c7-4e1a-b20f-f3ec3df01aaa) | 20 Aug 2023 |
 | Carousell Group | Software Engineering (Backend) Intern | [Open](https://careers.carousell.com/job-posting/?jid=743999930632912) | 16 Sep 2023 |
 | Carousell Group | Software Engineering (Web) Intern | [Open](https://careers.carousell.com/job-posting/?jid=743999930632543) | 16 Sep 2023 |
+| Centre for Strategic Infocomm Technologies | Software Engineer Intern (Product Development) | [Open](https://jobs.lever.co/csit/a8fc3c5f-ef4e-4749-a88d-ac50d3476a09) | 02 Sep 2023 |
 | Coinhako | Software Engineer Intern (Trading) | [Open](https://boards.greenhouse.io/coinhako/jobs/4187800005) | 27 Aug 2023 |
 | Dell Technologies | Cloud Native Architect and Developer Intern (4 to 6 months) | [Open](https://jobs.dell.com/job/singapore/cloud-native-architect-and-developer-intern-4-to-6-months-2024-intake/375/53058795312) | 02 Sep 2023 |
 | Envision Digital | Edge Developer Software Intern (2024) | [Open](https://envisiondigital.freshteam.com/jobs/24NA3qmS0bkh/edge-developer-software-intern-2024?ft_source=25000204917&ft_medium=25000179167) | 20 Aug 2023 |
@@ -88,7 +91,7 @@
 | Morgan Stanley | 2024 Industrial Placement Program (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
 | NodeFlair | Software Engineering Intern | [Open](https://www.careers-page.com/nodeflair23/job/QV833888) | 27 Aug 2023 |
 | Nomura | 2024 Group Data Office 6-month Internship Program - Singapore | [Open](https://nomuracampus.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/1/opp/908-2024-Group-Data-Office-6-month-Internship-Program-Singapore/en-GB) | 28 Aug 2023 |
-| Centre for Strategic Infocomm Technologies | Software Engineer Intern (Product Development) | [Open](https://jobs.lever.co/csit/a8fc3c5f-ef4e-4749-a88d-ac50d3476a09) | 02 Sep 2023 |
+| PayPal | Java Development Intern | [Open](https://paypal.eightfold.ai/careers/job/274895809542-java-development-intern-central-singapore-singapore?domain=paypal.com) | 21 Sep 2023 |
 | Rakuten | Software Engineer Intern (Backend) | [Open](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3691739055) | 30 Aug 2023 |
 | Sembcorp Group | Web Applications Developer Intern [Jan 2024 - Jun 2024] | [Open](https://hrsembcorp.darwinbox.com/ms/candidate/careers/a64d44d3cbbf3b) | 25 Aug 2023 |
 | Shopback | Software Engineering (Salesforce) Intern | [Open](https://jobs.lever.co/shopback-2/f2e65eaa-539c-4051-a014-6fc45c26e989) | 02 Sep 2023 |
