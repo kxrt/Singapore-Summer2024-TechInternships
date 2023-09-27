@@ -17,6 +17,7 @@
 |:---|:---|:---:|:---:|
 | AlphaLab Capital | 2024 Summer Intern | [Open](https://www.alphalab.capital/career/?gh_jid=4960149004) | 30 Aug 2023 |
 | Amazon | Data Center Operations Intern | [Open](https://www.amazon.jobs/en/jobs/2388502/data-center-operations-intern) | 20 Aug 2023 |
+| Autodesk | Various Opportunities | [Open](https://autodesk.wd1.myworkdayjobs.com/uni?locationCountry=80938777cac5440fab50d729f9634969) | 27 Sep 2023 |
 | Bank of America | Global Technology Summer Analyst (Developer) | [Open](https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/10253-Global-Technology-Summer-Analyst-Developer-2024-Singapore/en-GB) | 20 Aug 2023 |
 | Barclays | Technology Developer Analyst Internship | [Open](https://search.jobs.barclays/job/-/-/22545/53647883024) | 20 Aug 2023 |
 | Blackrock | Summer Internship Program - APAC | [Open](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-56900e343d15/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB) | 20 Aug 2023 |
@@ -24,7 +25,16 @@
 | Citadel | Software Engineer - Intern (Asia) | [Open](https://www.citadel.com/careers/details/software-engineer-intern-asia/) | 20 Aug 2023 |
 | Citi | APAC ICG Technology, Summer Software Development Analyst – Singapore (Singapore - 2024) | [Open](https://jobs.citi.com/job/-/-/287/52222714992?source=LinkedInJB&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=APAC_Lateral&utm_content=social_media&utm_term=326431642&ss=paid&dclid=CMzEnqyotIADFX6UZgIdJkwPDQ) | 20 Aug 2023 |
 | Coinhako | Software Engineer Intern (Trading) | [Open](https://boards.greenhouse.io/coinhako/jobs/4187800005) | 27 Aug 2023 |
+| Continental | Embedded Software Development Intern | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF39000J-p-7dc6460be9406ed842c5e4f7d64acf52/embedded-software-development-intern-ida2023-00095-/) | 27 Aug 2023 |
+| Continental | Security Testing Intern | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF41755F-p-7dc6460be9406ed842c5e4f7d64acf52/security-testing-intern-ida-2023-00116-/) | 27 Aug 2023 |
+| Continental | Software Engineer Intern (IDA:2023-00079) | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF38574Q-p-7dc6460be9406ed842c5e4f7d64acf52/software-engineer-intern-ida2023-00079-/) | 27 Aug 2023 |
+| Continental | Software Engineer Intern (IDX: 2023-00117) | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF22748K-p-7dc6460be9406ed842c5e4f7d64acf52/software-engineering-intern-idx-2023-00117-/) | 27 Aug 2023 |
+| Continental | System Test Engineer Intern | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF40456V-p-7dc6460be9406ed842c5e4f7d64acf52/system-test-engineer-intern-ida2023-00102-/) | 27 Aug 2023 |
+| Continental | Wireless Engineer Intern (RF & Network) | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF16914W-p-7dc6460be9406ed842c5e4f7d64acf52/wireless-engineer-intern-rf-network-ida-2023-00072-/) | 27 Aug 2023 |
 | Dell Technologies | Software Engineer Intern (SG-Edge) (2024 Intake) | [Open](https://jobs.dell.com/job/singapore/software-engineer-intern-sg-edge-2024-intake/375/53127945744?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 20 Aug 2023 |
+| EY | Intern - Technology Consulting, Digital & Emerging Technologies (2024) | [Open](https://eyglobal.yello.co/jobs/CkQz2h5OJU6n_PPQSowhIw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 27 Aug 2023 |
+| EY | Intern - Technology Consulting, Governance, Risk & Compliance (2024) | [Open](https://eyglobal.yello.co/jobs/ZPEYxcjOGwo2kqSlwa5xBA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 27 Aug 2023 |
+| EY | Intern - Technology Consulting, Technology Solution Delivery (2024) | [Open](https://eyglobal.yello.co/jobs/F0CykYc0kN86XejX1khg7A?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 27 Aug 2023 |
 | DRW | Quant \| Software Engineer Internship | [Open](https://drw.com/work-at-drw/listings?filterType=city&value=Singapore) | 20 Aug 2023 |
 | Garda Capital | Software Engineer Intern (Python) | [Open](https://boards.greenhouse.io/gardacp/jobs/4174205004?gh_src=ce79c35b4us) | 20 Aug 2023 |
 | GIC | GIC Internship Programme | [Open](https://gic.careers/programmes/gic-internship-programme/) | 20 Aug 2023 |
@@ -44,9 +54,14 @@
 | Mobbin | Software Engineer Intern | [Open](https://jobs.ashbyhq.com/mobbin.com/6e61f403-f196-475d-bdf1-228c492d0619) | 30 Aug 2023 |
 | Morgan Stanley | 2024 Technology Summer Analyst (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
 | Native Labs | Technology Intern \| Native | [Open](https://vegasolutions.hire.trakstar.com/jobs/fk0xzmc/) | 20 Aug 2023 |
+| NCS | Infrastructure Engineer Internship | [Open](https://www.ncs.co/careers/job-details/?jobId=153241) | 27 Aug 2023 |
+| NCS | Software Engineering Internship | [Open](https://www.ncs.co/careers/job-details/?jobId=153240) | 27 Aug 2023 |
+| NCS | System Engineering Internship | [Open](https://www.ncs.co/careers/job-details/?jobId=153244) | 27 Aug 2023 |
 | NodeFlair | Software Engineering Intern | [Open](https://www.careers-page.com/nodeflair23/job/QV833888) | 27 Aug 2023 |
 | Open Government Products | Software Engineering Intern (summer; between May and Aug 2024) | [Open](https://opengovernmentproducts.recruitee.com/o/software-engineering-intern-offcycle-between-aug-2023-and-apr-2024) | 30 Aug 2023 |
 | Optiver | Software Engineer Internship 2024 | [Open](https://optiver.com/working-at-optiver/career-opportunities/6892062002/) | 22 Aug 2023 |
+| Razer | Software (Cloud) Intern | [Open](https://razer.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software--Cloud--Intern_JR2023002978?locationCountry=80938777cac5440fab50d729f9634969) | 27 Aug 2023 |
+| Razer | Software Testing Intern | [Open](https://razer.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software-Testing-Intern_JR2023002540?locationCountry=80938777cac5440fab50d729f9634969) | 27 Aug 2023 |
 | Standard Chartered | Intern, Technology | [Open](https://scb.taleo.net/careersection/scec/jobdetail.ftl) | 24 Sep 2023 |
 | Standard Chartered | Intern, Ventures (Innovation & Tech) | [Open](https://scb.taleo.net/careersection/scec/jobdetail.ftl) | 24 Sep 2023 |
 | Stripe | Software Engineering Intern | [Open](https://stripe.com/jobs/listing/software-engineering-intern/5318699) | 20 Aug 2023 |
@@ -80,6 +95,7 @@
 | Dell Technologies | Cloud Native Architect and Developer Intern (4 to 6 months) | [Open](https://jobs.dell.com/job/singapore/cloud-native-architect-and-developer-intern-4-to-6-months-2024-intake/375/53058795312) | 02 Sep 2023 |
 | Envision Digital | Edge Developer Software Intern (2024) | [Open](https://envisiondigital.freshteam.com/jobs/24NA3qmS0bkh/edge-developer-software-intern-2024?ft_source=25000204917&ft_medium=25000179167) | 20 Aug 2023 |
 | FireJet | Software Engineer Intern (Spring) | [Open](https://noteforms.com/forms/firejet-fall-internship-application-nfd9cq) | 07 Sep 2023 |
+| Goldman Sachs | Off-Cycle Internship Program (3-12 months) | [Open](https://www.goldmansachs.com/careers/students/programs/asia-pacific/off-cycle-internship-program.html) | 27 Aug 2023 |
 | GovTech | GovTech 2024 Internships (Off-Cycle) | [Open](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2024-Internships_JR-10000019866) | 20 Aug 2023 |
 | Grasshopper | Software Engineer Intern (C++) | [Open](https://grasshopperasia.com/career/internexchangesimulator/) | 27 Aug 2023 |
 | Grasshopper | Software Engineer Intern (Rust, Python) | [Open](https://grasshopperasia.com/career/swe-intern-rust/) | 27 Aug 2023 |
