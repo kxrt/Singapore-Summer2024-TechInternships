@@ -25,11 +25,16 @@
 | Citadel | Software Engineer - Intern (Asia) | [Open](https://www.citadel.com/careers/details/software-engineer-intern-asia/) | 20 Aug 2023 |
 | Citi | APAC ICG Technology, Summer Software Development Analyst – Singapore (Singapore - 2024) | [Open](https://jobs.citi.com/job/-/-/287/52222714992?source=LinkedInJB&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=APAC_Lateral&utm_content=social_media&utm_term=326431642&ss=paid&dclid=CMzEnqyotIADFX6UZgIdJkwPDQ) | 20 Aug 2023 |
 | Coinhako | Software Engineer Intern (Trading) | [Open](https://boards.greenhouse.io/coinhako/jobs/4187800005) | 27 Aug 2023 |
-| Continental | Various Internships | [Open](https://jobs.continental.com/en/?ac=search_result&search_criterion_entry_level%5B%5D=9&search_criterion_entry_level%5B%5D=7&search_criterion_language%5B%5D=EN&search_criterion_channel%5B%5D=12&language=2#/?sorting=cityLabel_stringS%20ASC&itemsPerPage=100&currentPage=20) | 27 Aug 2023 |
+| Continental | Embedded Software Development Intern | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF39000J-p-7dc6460be9406ed842c5e4f7d64acf52/embedded-software-development-intern-ida2023-00095-/) | 27 Aug 2023 |
+| Continental | Security Testing Intern | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF41755F-p-7dc6460be9406ed842c5e4f7d64acf52/security-testing-intern-ida-2023-00116-/) | 27 Aug 2023 |
+| Continental | Software Engineer Intern (IDA:2023-00079) | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF38574Q-p-7dc6460be9406ed842c5e4f7d64acf52/software-engineer-intern-ida2023-00079-/) | 27 Aug 2023 |
+| Continental | Software Engineer Intern (IDX: 2023-00117) | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF22748K-p-7dc6460be9406ed842c5e4f7d64acf52/software-engineering-intern-idx-2023-00117-/) | 27 Aug 2023 |
+| Continental | System Test Engineer Intern | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF40456V-p-7dc6460be9406ed842c5e4f7d64acf52/system-test-engineer-intern-ida2023-00102-/) | 27 Aug 2023 |
+| Continental | Wireless Engineer Intern (RF & Network) | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF16914W-p-7dc6460be9406ed842c5e4f7d64acf52/wireless-engineer-intern-rf-network-ida-2023-00072-/) | 27 Aug 2023 |
 | Dell Technologies | Software Engineer Intern (SG-Edge) (2024 Intake) | [Open](https://jobs.dell.com/job/singapore/software-engineer-intern-sg-edge-2024-intake/375/53127945744?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 20 Aug 2023 |
-| EY | Intern - Technology Consulting, Technology Solution Delivery (2024) | [Open](https://eyglobal.yello.co/jobs/F0CykYc0kN86XejX1khg7A?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 27 Aug 2023 |
-| EY | Intern - Technology Consulting, Governance, Risk & Compliance (2024) | [Open](https://eyglobal.yello.co/jobs/ZPEYxcjOGwo2kqSlwa5xBA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 27 Aug 2023 |
 | EY | Intern - Technology Consulting, Digital & Emerging Technologies (2024) | [Open](https://eyglobal.yello.co/jobs/CkQz2h5OJU6n_PPQSowhIw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 27 Aug 2023 |
+| EY | Intern - Technology Consulting, Governance, Risk & Compliance (2024) | [Open](https://eyglobal.yello.co/jobs/ZPEYxcjOGwo2kqSlwa5xBA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 27 Aug 2023 |
+| EY | Intern - Technology Consulting, Technology Solution Delivery (2024) | [Open](https://eyglobal.yello.co/jobs/F0CykYc0kN86XejX1khg7A?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 27 Aug 2023 |
 | DRW | Quant \| Software Engineer Internship | [Open](https://drw.com/work-at-drw/listings?filterType=city&value=Singapore) | 20 Aug 2023 |
 | Garda Capital | Software Engineer Intern (Python) | [Open](https://boards.greenhouse.io/gardacp/jobs/4174205004?gh_src=ce79c35b4us) | 20 Aug 2023 |
 | GIC | GIC Internship Programme | [Open](https://gic.careers/programmes/gic-internship-programme/) | 20 Aug 2023 |
@@ -49,13 +54,12 @@
 | Mobbin | Software Engineer Intern | [Open](https://jobs.ashbyhq.com/mobbin.com/6e61f403-f196-475d-bdf1-228c492d0619) | 30 Aug 2023 |
 | Morgan Stanley | 2024 Technology Summer Analyst (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
 | Native Labs | Technology Intern \| Native | [Open](https://vegasolutions.hire.trakstar.com/jobs/fk0xzmc/) | 20 Aug 2023 |
-| NCS | Software Engineering Internship | [Open](https://www.ncs.co/careers/job-details/?jobId=153240) | 27 Aug 2023 |
 | NCS | Infrastructure Engineer Internship | [Open](https://www.ncs.co/careers/job-details/?jobId=153241) | 27 Aug 2023 |
+| NCS | Software Engineering Internship | [Open](https://www.ncs.co/careers/job-details/?jobId=153240) | 27 Aug 2023 |
 | NCS | System Engineering Internship | [Open](https://www.ncs.co/careers/job-details/?jobId=153244) | 27 Aug 2023 |
 | NodeFlair | Software Engineering Intern | [Open](https://www.careers-page.com/nodeflair23/job/QV833888) | 27 Aug 2023 |
 | Open Government Products | Software Engineering Intern (summer; between May and Aug 2024) | [Open](https://opengovernmentproducts.recruitee.com/o/software-engineering-intern-offcycle-between-aug-2023-and-apr-2024) | 30 Aug 2023 |
 | Optiver | Software Engineer Internship 2024 | [Open](https://optiver.com/working-at-optiver/career-opportunities/6892062002/) | 22 Aug 2023 |
-| Razer | Software QA Engineer Intern | [Open](https://razer.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software-QA-Engineer-Intern_JR2023002798?locationCountry=80938777cac5440fab50d729f9634969) | 27 Aug 2023 |
 | Razer | Software (Cloud) Intern | [Open](https://razer.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software--Cloud--Intern_JR2023002978?locationCountry=80938777cac5440fab50d729f9634969) | 27 Aug 2023 |
 | Razer | Software Testing Intern | [Open](https://razer.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software-Testing-Intern_JR2023002540?locationCountry=80938777cac5440fab50d729f9634969) | 27 Aug 2023 |
 | Standard Chartered | Intern, Technology | [Open](https://scb.taleo.net/careersection/scec/jobdetail.ftl) | 24 Sep 2023 |
