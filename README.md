@@ -69,11 +69,13 @@
 | Temasek | Project Intern, Technology (Full Stack Developer)  | [Open](https://career2.successfactors.eu/career?career_ns=job_listing&company=temasekcapP2&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&career_job_req_id=10767) | 10 Sep 2023 |
 | Temasek | Project Intern, Technology (Python Backend Developer)  | [Open](https://career2.successfactors.eu/career?career_ns=job_listing&company=temasekcapP2&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&career_job_req_id=10761) | 10 Sep 2023 |
 | Tencent | Site Reliability Engineer (SRE) Intern | [Open](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3689543158) | 30 Aug 2023 |
+| Thales | Full Stack Developer Intern (Software Engineer) | [Open](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Singapore/Full-stack-developer-Intern--Software-Engineer-_R1003479?source=linkedinjobsjw) | 30 Sep 2023 |
 | TikTok | Various Opportunities | [Open](https://careers.tiktok.com/position?keywords=2024&category=6704215862603155720&location=CT_163&project=&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=G1DWUPV) | 20 Aug 2023 |
 | Tokka Labs | Technology Intern \| Tokka Labs | [Open](https://vegasolutions.hire.trakstar.com/jobs/fk028tt/) | 20 Aug 2023 |
 | UBS | Internship 2024, Group Operations & Technology Office, Singapore | [Open](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=10846#jobDetails=282897_5131) | 20 Aug 2023 |
 | UOB | Summer Internship Program 2024 | [Open](https://careers.uobgroup.com/job/Summer-Internship-Programme-2024-Sing/943226910/) | 27 Aug 2023 |
 | Venti Technologies | Various Opportunities | [Open](https://jobs.ashbyhq.com/GoVenti?departmentId=95b69e51-0cf1-4004-8be0-117a04828efe&employmentType=Intern&locationId=80c1e4e2-42b4-4eac-a302-8bb7672695b0) | 22 Aug 2023 |
+| Venture Corporation | R&D Firmware/Software Intern | [Open](https://www.venture.com.sg/job/intern-rd-firmware-software/) | 03 Oct 2023 |
 | Virtu Financial | Proprietary Trading Software Developer (2024) | [Open](https://boards.greenhouse.io/virtu/jobs/5513756002?gh_src=b41440902us) | 25 Aug 2023 |
 | Visa | Technology Summer Internship (May 24 - Aug 24) | [Open](https://jobs.smartrecruiters.com/Visa/743999920843366-technology-summer-internship-may-24-aug-24-?lid=64cb2e27ae472228ed3efbb1) | 20 Aug 2023 |
 | YouTrip | Software Engineering Internship | [Open](https://you.bamboohr.com/careers/46) | 02 Sep 2023 |
@@ -83,6 +85,8 @@
 <!-- prettier-ignore -->
 | Company | Role | Status | Date Added |
 |:---|:---|:---:|:---:|
+| AdNovum | Software Engineer Intern | [Open](https://www.jobleads.com/en-us/registration/job?campaignId=7&jobId=e599350b78ab58c745278c3617f5ea660&jmId=1058&utm_source=jooble%7Cr-jb%7Cc-sg&utm_medium=job-external&utm_campaign=jobs&utm_content=jobmarket-id%3D1058%7Clandingpage-id%3D158%7Cjob-id%3D599350b78ab58c745278c3617f5ea660%7Cjob-workarea%3D08-07%7Cjob-hierarchy%3D04%7Cjob-salary-benchmark%3D03%7Cjob-industry%3D23%7Cjob-location%3Dsingapore%7Cjobtitle%3Dsoftware-engineer-intern&jobjmlp=158) | 30 Sep 2023 |
+| AMD | Semicon - Firmware Intern | [Open](https://careers.amd.com/careers-home/jobs/33170?lang=en-us) | 30 Sep 2023 |
 | Apple | Software Engineering Internship, Apple Services Engineering | [Open](https://jobs.apple.com/en-sg/details/200497249/software-engineering-internship-apple-services-engineering) | 20 Aug 2023 |
 | Apple | 2024 Apple Internship - Information Systems and Technology | [Open](https://jobs.apple.com/zh-cn/details/200496215/2024-apple-internship-information-systems-and-technology) | 20 Aug 2023 |
 | Artefact | Data Engineer Intern | [Open](https://www.artefact.com/job/data-intern/) | 25 Aug 2023 |
@@ -100,16 +104,22 @@
 | GovTech | GovTech 2024 Internships (Off-Cycle) | [Open](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2024-Internships_JR-10000019866) | 20 Aug 2023 |
 | Grasshopper | Software Engineer Intern (C++) | [Open](https://grasshopperasia.com/career/internexchangesimulator/) | 27 Aug 2023 |
 | Grasshopper | Software Engineer Intern (Rust, Python) | [Open](https://grasshopperasia.com/career/swe-intern-rust/) | 27 Aug 2023 |
+| Halliburton | Firmware Engineering Intern | [Open](https://jobs.halliburton.com/job/Singapore-University-Intern-EE-Firmware-05-639940/989663600) | 30 Sep 2023 |
 | Hewlett Packard Enterprise | Software Firmware Engineer Intern | [Open](https://careers.hpe.com/us/en/job/1159138/Software-Firmware-Engineer-Intern) | 02 Sep 2023 |
+| Hewlett Packard Enterprise | College Intern - R&D Embedded Firmware Engineering | [Open](https://www.linkedin.com/jobs/view/college-intern-r-d-embedded-firmware-engineering-at-hp-3710791857/) | 30 Sep 2023 |
 | Hypotenuse AI | Full Stack Software Engineer Intern (6 months) | [Open](https://www.ycombinator.com/companies/hypotenuse-ai/jobs/e7gNyjl-full-stack-software-engineer-intern-6-months?utm_source=syn_li) | 22 Aug 2023 |
 | IBM | Internship: CIO Network Engineering App Development (Jan - June 2024) - SG | [Open](https://careers.ibm.com/job/18870938/internship-cio-network-engineering-app-development-jan-june-2024-singapore-sg/?utm_source=talentnetwork) | 20 Aug 2023 |
 | IBM | Internship – Full Stack Developer/DevSecOps Engineers (2024 Intake) | [Open](https://careers.ibm.com/job/18985338/internship-full-stack-developer-devsecops-engineers-2024-intake-singapore-sg/) | 03 Sep 2023 |
+| Keysight | Firmware Migration Intern | [Open](https://jobs.keysight.com/job/Singapore-Firmware-Migration-to-Embedded-Linux-Intern/1079379700) | 30 Sep 2023 |
 | M-DAQ Global | Software Engineer Intern (Jan24-Jun24, Full Time) | [Open](https://www.linkedin.com/jobs/view/software-engineer-intern-jan24-jun24-full-time-at-m-daq-global-3689986076/) | 21 Aug 2023 |
+| Micron | Firmware Test Engineer Intern | [Open](https://careers.micron.com/careers/job/18104167-intern-firmware-test-engineer-singapore-singapore?domain=micron.com) | 30 Sep 2023 |
+| Micron | SSD Firmware Development Intern | [Open](https://careers.micron.com/careers/job/17983358?domain=micron.com) | 30 Sep 2023 |
 | Morgan Stanley | 2024 Industrial Placement Program (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
 | NodeFlair | Software Engineering Intern | [Open](https://www.careers-page.com/nodeflair23/job/QV833888) | 27 Aug 2023 |
 | Nomura | 2024 Group Data Office 6-month Internship Program - Singapore | [Open](https://nomuracampus.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/1/opp/908-2024-Group-Data-Office-6-month-Internship-Program-Singapore/en-GB) | 28 Aug 2023 |
 | PayPal | Java Development Intern | [Open](https://paypal.eightfold.ai/careers/job/274895809542-java-development-intern-central-singapore-singapore?domain=paypal.com) | 21 Sep 2023 |
 | Rakuten | Software Engineer Intern (Backend) | [Open](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3691739055) | 30 Aug 2023 |
+| Seagate | Firmware/Software Intern | [Open](https://seagatecareers.com/job/Shugart-FirmwareSoftware-Intern/1079323600/?feedId=83200&campaignId=3) | 30 Sep 2023 |
 | Sembcorp Group | Web Applications Developer Intern [Jan 2024 - Jun 2024] | [Open](https://hrsembcorp.darwinbox.com/ms/candidate/careers/a64d44d3cbbf3b) | 25 Aug 2023 |
 | Shopback | Software Engineering (Salesforce) Intern | [Open](https://jobs.lever.co/shopback-2/f2e65eaa-539c-4051-a014-6fc45c26e989) | 02 Sep 2023 |
 | SquarePoint | Intern Software Developer - Winter 2024 | [Open](https://www.squarepoint-capital.com/job#243853) | 04 Sep 2023 |
