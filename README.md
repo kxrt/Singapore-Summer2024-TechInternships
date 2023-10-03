@@ -85,7 +85,7 @@
 <!-- prettier-ignore -->
 | Company | Role | Status | Date Added |
 |:---|:---|:---:|:---:|
-| AdNovum | Software Engineer Intern | [Open](https://www.jobleads.com/en-us/registration/job?campaignId=7&jobId=e599350b78ab58c745278c3617f5ea660&jmId=1058&utm_source=jooble%7Cr-jb%7Cc-sg&utm_medium=job-external&utm_campaign=jobs&utm_content=jobmarket-id%3D1058%7Clandingpage-id%3D158%7Cjob-id%3D599350b78ab58c745278c3617f5ea660%7Cjob-workarea%3D08-07%7Cjob-hierarchy%3D04%7Cjob-salary-benchmark%3D03%7Cjob-industry%3D23%7Cjob-location%3Dsingapore%7Cjobtitle%3Dsoftware-engineer-intern&jobjmlp=158) | 30 Sep 2023 |
+| AdNovum | Software Engineer Intern | [Open](https://www.jobleads.com/en-us/registration/job?campaignId=7&jobId=e599350b78ab58c745278c3617f5ea660&jmId=1058) | 30 Sep 2023 |
 | AMD | Semicon - Firmware Intern | [Open](https://careers.amd.com/careers-home/jobs/33170?lang=en-us) | 30 Sep 2023 |
 | Apple | Software Engineering Internship, Apple Services Engineering | [Open](https://jobs.apple.com/en-sg/details/200497249/software-engineering-internship-apple-services-engineering) | 20 Aug 2023 |
 | Apple | 2024 Apple Internship - Information Systems and Technology | [Open](https://jobs.apple.com/zh-cn/details/200496215/2024-apple-internship-information-systems-and-technology) | 20 Aug 2023 |
@@ -124,4 +124,5 @@
 | Shopback | Software Engineering (Salesforce) Intern | [Open](https://jobs.lever.co/shopback-2/f2e65eaa-539c-4051-a014-6fc45c26e989) | 02 Sep 2023 |
 | SquarePoint | Intern Software Developer - Winter 2024 | [Open](https://www.squarepoint-capital.com/job#243853) | 04 Sep 2023 |
 | Synapxe | Algorithm & ML Engineer Intern | [Open](https://careers-public-healthtech-jobs.synapxe.sg/job/Uni-Internship-Jan-to-Jun-2024-Leveraging-Graph-Features-&-Algorithms-for-Deep-Learning/18194544/) | 12 Sep 2023 |
+| Temasek |  Project Intern, Technology (Data Engineer) | [Open](https://career2.successfactors.eu/career?navBarLevel=JOB_SEARCH&career_job_req_id=10789&rcm_site_locale=en_GB&company=temasekcapP2&career_ns=job_listing&source=LinkedIn) | 03 Oct 2023 |
 | The Software Practice Pte Ltd | Software Development Engineer (Intern) (January-June 2024) | [Open](https://thesoftwarepractice.freshteam.com/jobs/mNA1RJEckJ9N/software-development-engineer-intern) | 03 Sep 2023 |
