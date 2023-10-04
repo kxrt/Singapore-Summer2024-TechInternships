@@ -66,6 +66,7 @@
 | Standard Chartered | Intern, Technology | [Open](https://scb.taleo.net/careersection/scec/jobdetail.ftl) | 24 Sep 2023 |
 | Standard Chartered | Intern, Ventures (Innovation & Tech) | [Open](https://scb.taleo.net/careersection/scec/jobdetail.ftl) | 24 Sep 2023 |
 | Stripe | Software Engineering Intern | [Open](https://stripe.com/jobs/listing/software-engineering-intern/5318699) | 20 Aug 2023 |
+| Thales | Software Engineer Intern | [Open](https://www.linkedin.com/jobs/view/3730899619) | 04 Oct 2023 |
 | Temasek | Project Intern, Technology (Full Stack Developer)  | [Open](https://career2.successfactors.eu/career?career_ns=job_listing&company=temasekcapP2&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&career_job_req_id=10767) | 10 Sep 2023 |
 | Temasek | Project Intern, Technology (Python Backend Developer)  | [Open](https://career2.successfactors.eu/career?career_ns=job_listing&company=temasekcapP2&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&career_job_req_id=10761) | 10 Sep 2023 |
 | Tencent | Site Reliability Engineer (SRE) Intern | [Open](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3689543158) | 30 Aug 2023 |
