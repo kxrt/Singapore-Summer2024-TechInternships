@@ -66,11 +66,11 @@
 | Standard Chartered | Intern, Technology | [Open](https://scb.taleo.net/careersection/scec/jobdetail.ftl) | 24 Sep 2023 |
 | Standard Chartered | Intern, Ventures (Innovation & Tech) | [Open](https://scb.taleo.net/careersection/scec/jobdetail.ftl) | 24 Sep 2023 |
 | Stripe | Software Engineering Intern | [Open](https://stripe.com/jobs/listing/software-engineering-intern/5318699) | 20 Aug 2023 |
-| Thales | Software Engineer Intern | [Open](https://www.linkedin.com/jobs/view/3730899619) | 04 Oct 2023 |
 | Temasek | Project Intern, Technology (Full Stack Developer)  | [Open](https://career2.successfactors.eu/career?career_ns=job_listing&company=temasekcapP2&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&career_job_req_id=10767) | 10 Sep 2023 |
 | Temasek | Project Intern, Technology (Python Backend Developer)  | [Open](https://career2.successfactors.eu/career?career_ns=job_listing&company=temasekcapP2&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&career_job_req_id=10761) | 10 Sep 2023 |
 | Tencent | Site Reliability Engineer (SRE) Intern | [Open](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3689543158) | 30 Aug 2023 |
 | Thales | Full Stack Developer Intern (Software Engineer) | [Open](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Singapore/Full-stack-developer-Intern--Software-Engineer-_R1003479?source=linkedinjobsjw) | 30 Sep 2023 |
+| Thales | Software Engineer Intern | [Open](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_R1003470) | 04 Oct 2023 |
 | TikTok | Various Opportunities | [Open](https://careers.tiktok.com/position?keywords=2024&category=6704215862603155720&location=CT_163&project=&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=G1DWUPV) | 20 Aug 2023 |
 | Tokka Labs | Technology Intern \| Tokka Labs | [Open](https://vegasolutions.hire.trakstar.com/jobs/fk028tt/) | 20 Aug 2023 |
 | UBS | Internship 2024, Group Operations & Technology Office, Singapore | [Open](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=10846#jobDetails=282897_5131) | 20 Aug 2023 |
