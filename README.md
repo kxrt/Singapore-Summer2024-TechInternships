@@ -15,6 +15,7 @@
 <!-- prettier-ignore -->
 | Company | Role | Status | Date Added |
 |:---|:---|:---:|:---:|
+| AlphaGrep | Software Development Intern | [Open](https://boards.greenhouse.io/alphagrepsecurities/jobs/5549045002) | 23 Oct 2023 |
 | AlphaLab Capital | 2024 Summer Intern | [Open](https://www.alphalab.capital/career/?gh_jid=4960149004) | 30 Aug 2023 |
 | Amazon | Data Center Operations Intern | [Open](https://www.amazon.jobs/en/jobs/2388502/data-center-operations-intern) | 20 Aug 2023 |
 | Autodesk | Various Opportunities | [Open](https://autodesk.wd1.myworkdayjobs.com/uni?locationCountry=80938777cac5440fab50d729f9634969) | 27 Sep 2023 |
@@ -58,6 +59,7 @@
 | NCS | Software Engineering Internship | [Open](https://www.ncs.co/careers/job-details/?jobId=153240) | 27 Sep 2023 |
 | NCS | System Engineering Internship | [Open](https://www.ncs.co/careers/job-details/?jobId=153244) | 27 Sep 2023 |
 | NodeFlair | Software Engineering Intern | [Open](https://www.careers-page.com/nodeflair23/job/QV833888) | 27 Aug 2023 |
+| Nomura | 2024 Technology (GMIT) Summer Internship Program - Singapore | [Open](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-b3173ad47cdd/candidate/so/pm/1/pl/1/opp/956-2024-Technology-GMIT-Summer-Internship-Program-Singapore/en-GB) | 11 Oct 2023 |
 | OnLoop | Software Engineering Intern | [Open](https://www.onloop.com/careers?jobId=wpyZHWiBL0sQ?ref=sgtechjobs.com&utm_source=sgtechjobs.com) | 25 Sep 2023 |
 | Open Government Products | Software Engineering Intern (summer; between May and Aug 2024) | [Open](https://opengovernmentproducts.recruitee.com/o/software-engineering-intern-offcycle-between-aug-2023-and-apr-2024) | 30 Aug 2023 |
 | Optiver | Software Engineer Internship 2024 | [Open](https://optiver.com/working-at-optiver/career-opportunities/6892062002/) | 22 Aug 2023 |
@@ -79,6 +81,7 @@
 | Venture Corporation | R&D Firmware/Software Intern | [Open](https://www.venture.com.sg/job/intern-rd-firmware-software/) | 03 Oct 2023 |
 | Virtu Financial | Proprietary Trading Software Developer (2024) | [Open](https://boards.greenhouse.io/virtu/jobs/5513756002?gh_src=b41440902us) | 25 Aug 2023 |
 | Visa | Technology Summer Internship (May 24 - Aug 24) | [Open](https://jobs.smartrecruiters.com/Visa/743999920843366-technology-summer-internship-may-24-aug-24-?lid=64cb2e27ae472228ed3efbb1) | 20 Aug 2023 |
+| Wise | Software Engineering Internship (12 weeks) | [Open](https://boards.greenhouse.io/transferwise/jobs/5409752?gh_src=6b7625d61us) | 04 Oct 2023 |
 | YouTrip | Software Engineering Internship | [Open](https://you.bamboohr.com/careers/46) | 02 Sep 2023 |
 
 <h2 name="offcycle">Off-Cycle Internship List</h2>
@@ -123,6 +126,7 @@
 | Seagate | Firmware/Software Intern | [Open](https://seagatecareers.com/job/Shugart-FirmwareSoftware-Intern/1079323600/?feedId=83200&campaignId=3) | 30 Sep 2023 |
 | Sembcorp Group | Web Applications Developer Intern [Jan 2024 - Jun 2024] | [Open](https://hrsembcorp.darwinbox.com/ms/candidate/careers/a64d44d3cbbf3b) | 25 Aug 2023 |
 | Shopback | Software Engineering (Salesforce) Intern | [Open](https://jobs.lever.co/shopback-2/f2e65eaa-539c-4051-a014-6fc45c26e989) | 02 Sep 2023 |
+| SLB (formerly Schlumberger) | Intern - KL IT Center / IT Onsite / GBS Digital | [Open](https://careers.slb.com/jobaddetail.aspx?id=66351) | 06 Oct 2023 |
 | SquarePoint | Intern Software Developer - Winter 2024 | [Open](https://www.squarepoint-capital.com/job#243853) | 04 Sep 2023 |
 | Synapxe | Algorithm & ML Engineer Intern | [Open](https://careers-public-healthtech-jobs.synapxe.sg/job/Uni-Internship-Jan-to-Jun-2024-Leveraging-Graph-Features-&-Algorithms-for-Deep-Learning/18194544/) | 12 Sep 2023 |
 | Temasek |  Project Intern, Technology (Data Engineer) | [Open](https://career2.successfactors.eu/career?navBarLevel=JOB_SEARCH&career_job_req_id=10789&rcm_site_locale=en_GB&company=temasekcapP2&career_ns=job_listing&source=LinkedIn) | 03 Oct 2023 |
