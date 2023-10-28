@@ -52,6 +52,7 @@
 | Jump Trading | Campus Software Engineer (Intern) | [Open](https://www.jumptrading.com/careers/5305049/?gh_jid=5305049) | 28 Aug 2023 |
 | Kinexcs | Software Developer Intern | [Open](https://glints.com/sg/opportunities/jobs/software-developer-intern/73ea4931-438c-40a4-881f-6525c9d53496) | 27 Aug 2023 |
 | Marshall Wace | Technology Internship Programme | [Open](https://jobs.smartrecruiters.com/Wiser/743999928979458-technology-internship-programme-2024-sgp-marshall-wace) | 15 Sep 2023 |
+| Mercari | Software Engineer (Internship) | [Open](https://apply.workable.com/mercari/j/FE4DFD158A/) | 28 Oct 2023 |
 | Mobbin | Software Engineer Intern | [Open](https://jobs.ashbyhq.com/mobbin.com/6e61f403-f196-475d-bdf1-228c492d0619) | 30 Aug 2023 |
 | Morgan Stanley | 2024 Technology Summer Analyst (Singapore) | [Open](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16140-2024-Technology-Summer-Analyst-Industrial-Placement-Program-Singapore/en-GB) | 20 Aug 2023 |
 | Native Labs | Technology Intern \| Native | [Open](https://vegasolutions.hire.trakstar.com/jobs/fk0xzmc/) | 20 Aug 2023 |
@@ -97,12 +98,14 @@
 | Autodesk | Intern, Software Development Engineer [PSET-IDL-ENG] | [Open](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-IDL-ENG-_23WD72088) | 03 Sep 2023 |
 | Bifrost AI | AI Intern | [Open](https://jobs.ashbyhq.com/Bifrost/6c4c89e7-ae35-4003-98bb-ab1952332a35) | 20 Aug 2023 |
 | Bifrost AI | Software Development Intern | [Open](https://jobs.ashbyhq.com/Bifrost/3e4fe293-21c7-4e1a-b20f-f3ec3df01aaa) | 20 Aug 2023 |
+| Bloomberg | 2024 Software Engineer Industrial Placement | [Open](https://careers.bloomberg.com/job/detail/118604) | 28 Oct 2023 |
 | Carousell Group | Software Engineering (Backend) Intern | [Open](https://careers.carousell.com/job-posting/?jid=743999930632912) | 16 Sep 2023 |
 | Carousell Group | Software Engineering (Web) Intern | [Open](https://careers.carousell.com/job-posting/?jid=743999930632543) | 16 Sep 2023 |
 | Centre for Strategic Infocomm Technologies | Software Engineer Intern (Product Development) | [Open](https://jobs.lever.co/csit/a8fc3c5f-ef4e-4749-a88d-ac50d3476a09) | 02 Sep 2023 |
 | Coinhako | Software Engineer Intern (Trading) | [Open](https://boards.greenhouse.io/coinhako/jobs/4187800005) | 27 Aug 2023 |
 | Dell Technologies | Cloud Native Architect and Developer Intern (4 to 6 months) | [Open](https://jobs.dell.com/job/singapore/cloud-native-architect-and-developer-intern-4-to-6-months-2024-intake/375/53058795312) | 02 Sep 2023 |
 | Envision Digital | Edge Developer Software Intern (2024) | [Open](https://envisiondigital.freshteam.com/jobs/24NA3qmS0bkh/edge-developer-software-intern-2024?ft_source=25000204917&ft_medium=25000179167) | 20 Aug 2023 |
+| Factorem | Multiple Positions | [Open](https://careers.factorem.co) | 27 Oct 2023 |
 | FireJet | Software Engineer Intern (Spring) | [Open](https://noteforms.com/forms/firejet-fall-internship-application-nfd9cq) | 07 Sep 2023 |
 | Goldman Sachs | Off-Cycle Internship Program (3-12 months) | [Open](https://www.goldmansachs.com/careers/students/programs/asia-pacific/off-cycle-internship-program.html) | 27 Sep 2023 |
 | GovTech | GovTech 2024 Internships (Off-Cycle) | [Open](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2024-Internships_JR-10000019866) | 20 Aug 2023 |
