@@ -32,6 +32,7 @@
 | Continental | Software Engineer Intern (IDX: 2023-00117) | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF22748K-p-7dc6460be9406ed842c5e4f7d64acf52/software-engineering-intern-idx-2023-00117-/) | 27 Sep 2023 |
 | Continental | System Test Engineer Intern | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF40456V-p-7dc6460be9406ed842c5e4f7d64acf52/system-test-engineer-intern-ida2023-00102-/) | 27 Sep 2023 |
 | Continental | Wireless Engineer Intern (RF & Network) | [Open](https://jobs.continental.com/en/detail-page/job-detail/REF16914W-p-7dc6460be9406ed842c5e4f7d64acf52/wireless-engineer-intern-rf-network-ida-2023-00072-/) | 27 Sep 2023 |
+| Datature | Software Engineer Intern, Backend | [Open](https://www.linkedin.com/jobs/search/?currentJobId=3730545576&f_C=18706840&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=3730545576%2C3745284537) | 02 Nov 2023 |
 | Dell Technologies | Software Engineer Intern (SG-Edge) (2024 Intake) | [Open](https://jobs.dell.com/job/singapore/software-engineer-intern-sg-edge-2024-intake/375/53127945744?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 20 Aug 2023 |
 | EY | Intern - Technology Consulting, Digital & Emerging Technologies (2024) | [Open](https://eyglobal.yello.co/jobs/CkQz2h5OJU6n_PPQSowhIw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 27 Sep 2023 |
 | EY | Intern - Technology Consulting, Governance, Risk & Compliance (2024) | [Open](https://eyglobal.yello.co/jobs/ZPEYxcjOGwo2kqSlwa5xBA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 27 Sep 2023 |
@@ -103,6 +104,7 @@
 | Carousell Group | Software Engineering (Web) Intern | [Open](https://careers.carousell.com/job-posting/?jid=743999930632543) | 16 Sep 2023 |
 | Centre for Strategic Infocomm Technologies | Software Engineer Intern (Product Development) | [Open](https://jobs.lever.co/csit/a8fc3c5f-ef4e-4749-a88d-ac50d3476a09) | 02 Sep 2023 |
 | Coinhako | Software Engineer Intern (Trading) | [Open](https://boards.greenhouse.io/coinhako/jobs/4187800005) | 27 Aug 2023 |
+| Datature | Software Engineer Intern, Backend | [Open](https://www.linkedin.com/jobs/search/?currentJobId=3730545576&f_C=18706840&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=3730545576%2C3745284537) | 02 Nov 2023 |
 | Dell Technologies | Cloud Native Architect and Developer Intern (4 to 6 months) | [Open](https://jobs.dell.com/job/singapore/cloud-native-architect-and-developer-intern-4-to-6-months-2024-intake/375/53058795312) | 02 Sep 2023 |
 | Envision Digital | Edge Developer Software Intern (2024) | [Open](https://envisiondigital.freshteam.com/jobs/24NA3qmS0bkh/edge-developer-software-intern-2024?ft_source=25000204917&ft_medium=25000179167) | 20 Aug 2023 |
 | Factorem | Multiple Positions | [Open](https://careers.factorem.co) | 27 Oct 2023 |
@@ -117,6 +119,7 @@
 | Hypotenuse AI | Full Stack Software Engineer Intern (6 months) | [Open](https://www.ycombinator.com/companies/hypotenuse-ai/jobs/e7gNyjl-full-stack-software-engineer-intern-6-months?utm_source=syn_li) | 22 Aug 2023 |
 | IBM | Internship: CIO Network Engineering App Development (Jan - June 2024) - SG | [Open](https://careers.ibm.com/job/18870938/internship-cio-network-engineering-app-development-jan-june-2024-singapore-sg/?utm_source=talentnetwork) | 20 Aug 2023 |
 | IBM | Internship – Full Stack Developer/DevSecOps Engineers (2024 Intake) | [Open](https://careers.ibm.com/job/18985338/internship-full-stack-developer-devsecops-engineers-2024-intake-singapore-sg/) | 03 Sep 2023 |
+| Illumina | Software Engineering Intern | [Open](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-universityrecruiting/job/Singapore---Woodlands---NorthCoast/Software-Engineering-Intern_36477-JOB) | 02 Nov 2023 |
 | Keysight | Firmware Migration Intern | [Open](https://jobs.keysight.com/job/Singapore-Firmware-Migration-to-Embedded-Linux-Intern/1079379700) | 30 Sep 2023 |
 | M-DAQ Global | Software Engineer Intern (Jan24-Jun24, Full Time) | [Open](https://www.linkedin.com/jobs/view/software-engineer-intern-jan24-jun24-full-time-at-m-daq-global-3689986076/) | 21 Aug 2023 |
 | Micron | Firmware Test Engineer Intern | [Open](https://careers.micron.com/careers/job/18104167-intern-firmware-test-engineer-singapore-singapore?domain=micron.com) | 30 Sep 2023 |
@@ -126,11 +129,14 @@
 | Nomura | 2024 Group Data Office 6-month Internship Program - Singapore | [Open](https://nomuracampus.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/1/opp/908-2024-Group-Data-Office-6-month-Internship-Program-Singapore/en-GB) | 28 Aug 2023 |
 | PayPal | Java Development Intern | [Open](https://paypal.eightfold.ai/careers/job/274895809542-java-development-intern-central-singapore-singapore?domain=paypal.com) | 21 Sep 2023 |
 | Rakuten | Software Engineer Intern (Backend) | [Open](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3691739055) | 30 Aug 2023 |
+| Rohde & Schwarz | Software Engineer Intern | [Open](https://www.rohde-schwarz.com/de/karriere/stellenangebote/intern-software-development-stellenangebot-detailansicht_251563-1424399.html) | 02 Nov 2023 |
 | Seagate | Firmware/Software Intern | [Open](https://seagatecareers.com/job/Shugart-FirmwareSoftware-Intern/1079323600/?feedId=83200&campaignId=3) | 30 Sep 2023 |
+| Sembcorp | Data Engineering Intern | [Open](https://hrsembcorp.darwinbox.com/ms/candidate/careers/a653b306d865cd) | 02 Nov 2023 |
 | Sembcorp Group | Web Applications Developer Intern [Jan 2024 - Jun 2024] | [Open](https://hrsembcorp.darwinbox.com/ms/candidate/careers/a64d44d3cbbf3b) | 25 Aug 2023 |
 | Shopback | Software Engineering (Salesforce) Intern | [Open](https://jobs.lever.co/shopback-2/f2e65eaa-539c-4051-a014-6fc45c26e989) | 02 Sep 2023 |
 | SLB (formerly Schlumberger) | Intern - KL IT Center / IT Onsite / GBS Digital | [Open](https://careers.slb.com/jobaddetail.aspx?id=66351) | 06 Oct 2023 |
 | SquarePoint | Intern Software Developer - Winter 2024 | [Open](https://www.squarepoint-capital.com/job#243853) | 04 Sep 2023 |
 | Synapxe | Algorithm & ML Engineer Intern | [Open](https://careers-public-healthtech-jobs.synapxe.sg/job/Uni-Internship-Jan-to-Jun-2024-Leveraging-Graph-Features-&-Algorithms-for-Deep-Learning/18194544/) | 12 Sep 2023 |
 | Temasek |  Project Intern, Technology (Data Engineer) | [Open](https://career2.successfactors.eu/career?navBarLevel=JOB_SEARCH&career_job_req_id=10789&rcm_site_locale=en_GB&company=temasekcapP2&career_ns=job_listing&source=LinkedIn) | 03 Oct 2023 |
+| Thales | Mobile Security Intern | [Open](https://careers.thalesgroup.com/global/en/job/R0232705/Mobile-Security-Intern) | 02 Nov 2023 |
 | The Software Practice Pte Ltd | Software Development Engineer (Intern) (January-June 2024) | [Open](https://thesoftwarepractice.freshteam.com/jobs/mNA1RJEckJ9N/software-development-engineer-intern) | 03 Sep 2023 |
