@@ -1,6 +1,5 @@
 <h1>🇸🇬 Summer 2024 Tech Internships - Singapore 🇸🇬</h1>
-
-> **Check out the website 🌐: [techinternships.kxrt.me](https://techinternships.kxrt.me/) ([code](https://github.com/kxrt/sg-tech-internships)) - sort postings by date!** 📅  
+ 
 > **Drop a ⭐ if this has been helpful for you!**
 
 * Share and track internship postings in technology-focused roles for **Summer 2024**. 
